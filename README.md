@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Performance Prediction
 
 A complete Machine Learning project that predicts student academic performance
@@ -148,3 +149,7 @@ accuracy.
 
 This project is provided for educational purposes. Feel free to fork, modify,
 and use it as a starting point for your own ML/Flask projects.
+=======
+# LearnPredict
+ ML-powered student performance predictor with a Flask web UI — live predictions, model comparison, and analytics dashboard.
+>>>>>>> ecd7242ed15949f71e1de963c0e79ac4569b1dfb
